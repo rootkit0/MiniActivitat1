@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiniActivitat1</string>
+    <string name="flag">Drapeau</string>
+    <string name="country">Pays:</string>
+    <string name="countryContent">France</string>
+    <string name="language">Langue:</string>
+    <string name="languageContent">Français</string>
+    <string name="infecteds">Nombre de infectées</string>
+    <string name="infectedsContent">Il y a 423 infectés dans votre pays. (Dernière mise à jour 06/05/2020)</string>
+</resources>

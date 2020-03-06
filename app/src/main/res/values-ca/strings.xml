@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiniActivitat1</string>
+    <string name="flag">Bandera</string>
+    <string name="country">Pais:</string>
+    <string name="countryContent">Catalunya</string>
+    <string name="language">Idioma:</string>
+    <string name="languageContent">Catala</string>
+    <string name="infecteds">Nombre de infectats</string>
+    <string name="infectedsContent">Hi han 32 infectats al teu pais. (Darrera actualitzacio: 06/03/2020)</string>
+</resources>

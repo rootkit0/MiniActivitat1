@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiniActivitat1</string>
+    <string name="flag">Bandiera</string>
+    <string name="country">Nazione:</string>
+    <string name="countryContent">Italia</string>
+    <string name="language">Linguaggio:</string>
+    <string name="languageContent">Italiano</string>
+    <string name="infecteds">Numero di infette</string>
+    <string name="infectedsContent">Ci sono 3858 infetti nel tuo paese. (Ultimo aggiornamento 06/05/2020)</string>
+</resources>

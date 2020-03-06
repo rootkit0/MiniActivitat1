@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MiniActivitat1</string>
+    <string name="flag">Flag</string>
+    <string name="country">Country:</string>
+    <string name="countryContent">USA</string>
+    <string name="language">Language:</string>
+    <string name="languageContent">English</string>
+    <string name="infecteds">Number of infecteds</string>
+    <string name="infectedsContent">There are 233 infected people in your country. (Last updated: 06/03/2020)</string>
+</resources>
